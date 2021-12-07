@@ -2,4 +2,4 @@
 Desafio de projeto sobre Gi/GitHub
 
 ## Links Úteis
-[Sintaxe Basica Mardown] (https://www.markdownguide.org/masic-sybtax/)
+[Sintaxe Basica Mardown] (https://www.markdownguide.org/basic-syntax)
